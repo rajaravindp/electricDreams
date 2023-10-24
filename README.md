@@ -33,5 +33,6 @@ However, the project does encounter a notable limitation in terms of real-time d
 To mitigate this challenge and further improve the system's capabilities, future iterations of the project will explore alternative solutions and strategies to implement real-time data updates. This could potentially involve the integration of additional tools and technologies, or the adoption of different approaches to data streaming and synchronization.
 
 ## DashBoard
+https://public.tableau.com/app/profile/aravind.palepu/viz/tslaViz/Dashboard1
 ![image](https://github.com/rajaravindp/electricDreams/assets/118573661/894b6bd9-6dad-44e4-ae34-8a9450315572)
 
