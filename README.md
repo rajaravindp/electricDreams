@@ -11,6 +11,13 @@ This project focuses on analyzing the market for used Tesla cars sold by Tesla. 
 - Advanced statistical analysis and machine learning techniques for robust car price prediction
 - Development of an interactive and user-friendly dashboard for data exploration and visualization
 
+## DashBoard
+https://public.tableau.com/app/profile/aravind.palepu/viz/tslaViz/Dashboard1
+![image](https://github.com/rajaravindp/electricDreams/assets/118573661/894b6bd9-6dad-44e4-ae34-8a9450315572)
+
+## WorkFlow
+![electricDreamsWorkflow](https://github.com/rajaravindp/electricDreams/assets/118573661/5c91c5ab-f459-49ad-b88e-08049905e358) <center>
+
 ## Technologies Used
 - Python
 - Selenium
@@ -20,12 +27,3 @@ This project focuses on analyzing the market for used Tesla cars sold by Tesla. 
 - Tableau
 - Git
 - GitHub
-
-## DashBoard
-https://public.tableau.com/app/profile/aravind.palepu/viz/tslaViz/Dashboard1
-![image](https://github.com/rajaravindp/electricDreams/assets/118573661/894b6bd9-6dad-44e4-ae34-8a9450315572)
-
-## WorkFlow
-![electricDreamsWorkflow](https://github.com/rajaravindp/electricDreams/assets/118573661/5c91c5ab-f459-49ad-b88e-08049905e358) <center>
-
-
