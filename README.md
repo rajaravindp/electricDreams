@@ -3,8 +3,10 @@ Web Data Integration and Visualization Pipeline
 
 ## Overview
 This project focuses on analyzing the market for used Tesla cars sold by Tesla. It involves the integration and visualization of web data to provide insights into pricing trends, demand patterns, and other relevant factors.
-![tesla](https://github.com/rajaravindp/electricDreams/assets/118573661/5bab2bde-e709-4186-a545-3997522f2007)
 
+<p align="center">
+  <img src="https://github.com/rajaravindp/electricDreams/assets/118573661/5bab2bde-e709-4186-a545-3997522f2007" alt="tesla" />
+</p>
 
 ## Scope of Project
 - Data extraction through web scraping to collect comprehensive information on pre-owned Tesla car listings
