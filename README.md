@@ -8,7 +8,6 @@ This project focuses on analyzing the market for used Tesla cars sold by Tesla. 
   <img src="https://github.com/rajaravindp/electricDreams/assets/118573661/5bab2bde-e709-4186-a545-3997522f2007" alt="tesla" />
 </div>
 
-
 ## Scope of Project
 - Data extraction through web scraping to collect comprehensive information on pre-owned Tesla car listings
 - Data wrangling, cleansing, and preprocessing to ensure data quality and reliability
@@ -21,7 +20,9 @@ https://public.tableau.com/app/profile/aravind.palepu/viz/tslaViz/Dashboard1
 ![image](https://github.com/rajaravindp/electricDreams/assets/118573661/894b6bd9-6dad-44e4-ae34-8a9450315572)
 
 ## WorkFlow
+<div align="center">
 ![electricDreamsWorkflow](https://github.com/rajaravindp/electricDreams/assets/118573661/5c91c5ab-f459-49ad-b88e-08049905e358) <center>
+</div>
 
 ## Technologies Used
 - Python
