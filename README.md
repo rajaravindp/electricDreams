@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/aravind.palepu/viz/tslaViz/Dashboard1
 
 ## WorkFlow
 <p align="center">
-  <img width="460" height="300" src="https://github.com/rajaravindp/electricDreams/assets/118573661/5c91c5ab-f459-49ad-b88e-08049905e358" alt="electricDreamsWorkflow">
+  <img width="600" height="400" src="https://github.com/rajaravindp/electricDreams/assets/118573661/5c91c5ab-f459-49ad-b88e-08049905e358" alt="electricDreamsWorkflow">
 </p>
 
 ## Technologies Used
